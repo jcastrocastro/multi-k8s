@@ -1,1 +1,1 @@
-# multi-k8s2
+# multi-k8s
